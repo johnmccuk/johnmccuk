@@ -1,4 +1,12 @@
-### Hi there 👋
+## Cloud Engineer
+
+I'm a cloud focused developer with experience in a variety of wide ranging technologies.
+
+Currently trying to go deeper with:
+
+- AWS
+- Terraform
+- Serverless
 
 <!--
 **johnmccuk/johnmccuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
