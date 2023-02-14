@@ -2,7 +2,7 @@
 
 I'm a cloud focused developer with experience in a variety of wide ranging technologies.
 
-Currently trying to go deeper with:
+Currently improving my knowledge of:
 
 - AWS
 - Terraform
