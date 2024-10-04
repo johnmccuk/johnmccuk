@@ -5,8 +5,9 @@ I'm a cloud focused developer with experience in a variety of wide ranging techn
 Currently improving my knowledge of:
 
 - AWS
-- Terraform
-- Serverless
+- SecOps
+- Kubernetes
+- IoT
 
 <!--
 **johnmccuk/johnmccuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
